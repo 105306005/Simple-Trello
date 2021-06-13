@@ -5,7 +5,7 @@
 
 This project is a Simple Version of Trello.
 
-<!-- <img src="https://maggiepractice.s3.amazonaws.com/bookmark.jpg" width="400" /> -->
+<img src="https://maggiepractice.s3.amazonaws.com/trello.gif" width="600" />
 
 ## Technologies
 
