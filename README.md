@@ -7,6 +7,8 @@ This project is a Simple Version of Trello.
 
 <img src="https://maggiepractice.s3.amazonaws.com/trello.gif" width="600" />
 
+Website Demo✨: https://105306005.github.io/Simple-Trello/
+
 ## Technologies
 
 Project is created with:
